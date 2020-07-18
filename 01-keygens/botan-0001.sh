@@ -10,7 +10,7 @@ cd 00_$1
 # Please uncomment one of the lines listed below:
 #botan keygen --algo=RSA --params=3072 --provider=Keygens > 00_private_$1.pem
 #botan keygen --algo=DSA --params=dsa/botan/2048 --provider=Keygens > 00_private_$1.pem
-#botan keygen --algo=EC --params=secp256r1 --provider=Keygens  > 00_private_$1.pem
+#botan keygen --algo=ECDSA --params=secp256r1 --provider=Keygens  > 00_private_$1.pem
 
 botan pkcs8 --pub-out 00_private_$1.pem > 00_public_$1.key
 
