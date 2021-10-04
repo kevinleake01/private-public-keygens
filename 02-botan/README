@@ -1,0 +1,63 @@
+----- BOTAN -----
+
+https://botan.randombit.net/
+https://github.com/randombit/botan
+
+Botan is one of the best cryptography tools available today, and I think it
+is the best solution to create private-public keys. It is written in C++.
+
+
+Here is an example script:
+
+-----------------------------------------------------------------------------------
+
+#!/bin/sh
+
+# This creates a private and public key pair using Botan.
+
+# Example usage:  ./botan-0001.sh mykeys
+
+mkdir 00_$1
+cd 00_$1
+
+# Please uncomment one of the lines listed below:
+#botan keygen --algo=RSA --params=3072 --provider=Keygens > 00_private_$1.pem
+#botan keygen --algo=DSA --params=dsa/botan/2048 --provider=Keygens > 00_private_$1.pem
+#botan keygen --algo=ECDSA --params=secp256r1 --provider=Keygens  > 00_private_$1.pem
+
+botan pkcs8 --pub-out 00_private_$1.pem > 00_public_$1.key
+
+botan gen_pkcs10 00_private_$1.pem CN --country=GB --organization=Keygens --email=test@foobar.com > 00_csr_$1.csr
+botan gen_self_signed 00_private_$1.pem CN --country=GB --organization=Keygens --email=test@foobar.com --days=3652 > 00_crt_$1.crt
+
+cd ../
+
+-----------------------------------------------------------------------------------
+
+[1] "keygen" creates your private key.
+
+[2] "pkcs8 --pub-out" makes your public key from the private key.
+
+[3] Use "gen_pkcs10" if you want a request for an X509 certificate.
+
+[4] Use "gen_self_signed" if you want the certificate to be signed by yourself.
+    The "--days=3652" will make it valid for 10 Years.
+
+-----------------------------------------------------------------------------------
+
+Botan does a lot of things, and there are too many to show here. If you want to know
+more, see the following listed below:
+
+
+General Handbook:
+https://botan.randombit.net/handbook/
+https://botan.randombit.net/handbook/botan.pdf
+
+Command Line Interface:
+https://github.com/randombit/botan/blob/master/doc/cli.rst
+https://botan.randombit.net/handbook/cli.html
+
+Crypto Library C++ API Reference:
+https://botan.randombit.net/doxygen/index.html
+https://botan.randombit.net/handbook/api_ref/contents.html
+
