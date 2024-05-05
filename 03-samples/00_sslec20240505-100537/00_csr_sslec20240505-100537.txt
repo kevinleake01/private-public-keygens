@@ -1,0 +1,31 @@
+Certificate Request:
+    Data:
+        Version: 1 (0x0)
+        Subject: C=GB, ST=Some-State, O=Internet Widgits Pty Ltd
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (256 bit)
+                pub:
+                    04:e4:f5:1e:2e:4c:5b:11:7a:14:1b:46:1f:04:3d:
+                    63:97:7c:26:ac:43:53:b9:c7:71:dc:43:83:f2:43:
+                    25:60:d1:a3:42:c7:38:d9:2f:46:e8:26:93:4d:03:
+                    77:3d:ac:ca:ef:0e:e9:95:bc:1d:02:2d:b7:d8:90:
+                    5b:36:97:a3:d5
+                ASN1 OID: secp256k1
+        Attributes:
+            (none)
+            Requested Extensions:
+    Signature Algorithm: ecdsa-with-SHA256
+    Signature Value:
+        30:44:02:20:3e:29:6c:71:ab:59:8d:23:0a:ac:07:bb:d4:81:
+        a5:16:5f:d9:e5:3f:dc:e0:ae:d1:0c:c4:0d:cd:4d:01:dc:fe:
+        02:20:59:e5:4b:f6:4e:f7:cc:77:a8:4c:0d:af:92:2e:9b:e0:
+        56:47:db:7b:a6:cc:42:d9:3f:63:cb:da:f1:bc:5c:02
+-----BEGIN CERTIFICATE REQUEST-----
+MIH8MIGkAgEAMEUxCzAJBgNVBAYTAkdCMRMwEQYDVQQIDApTb21lLVN0YXRlMSEw
+HwYDVQQKDBhJbnRlcm5ldCBXaWRnaXRzIFB0eSBMdGQwVjAQBgcqhkjOPQIBBgUr
+gQQACgNCAATk9R4uTFsRehQbRh8EPWOXfCasQ1O5x3HcQ4PyQyVg0aNCxzjZL0bo
+JpNNA3c9rMrvDumVvB0CLbfYkFs2l6PVoAAwCgYIKoZIzj0EAwIDRwAwRAIgPils
+catZjSMKrAe71IGlFl/Z5T/c4K7RDMQNzU0B3P4CIFnlS/ZO98x3qEwNr5Ium+BW
+R9t7psxC2T9jy9rxvFwC
+-----END CERTIFICATE REQUEST-----

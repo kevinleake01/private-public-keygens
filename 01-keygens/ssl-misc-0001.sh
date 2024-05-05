@@ -10,7 +10,6 @@ cd 00_$1
 
 # Please uncomment one of the lines listed below:
 #openssl genpkey -algorithm RSA -pkeyopt rsa_keygen_bits:2048 -out 00_private_$1.pem
-#openssl genpkey -algorithm DSA -genparam -pkeyopt dsa_paramgen_bits:2048 -out 00_private_$1.pem
 #openssl genpkey -algorithm EC -pkeyopt ec_paramgen_curve:secp256k1 -pkeyopt ec_param_enc:named_curve -out 00_private_$1.pem
 
 openssl pkey -in 00_private_$1.pem -pubout -out 00_public_$1.pem

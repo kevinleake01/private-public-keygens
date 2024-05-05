@@ -1,0 +1,41 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            0e:b1:3f:fb:b2:89:39:0a:5d:0b:5d:d4:ca:01:62:67:13:ee:09:90
+        Signature Algorithm: ecdsa-with-SHA256
+        Issuer: C=GB, ST=Some-State, O=Internet Widgits Pty Ltd
+        Validity
+            Not Before: May  5 10:40:11 2024 GMT
+            Not After : May  5 10:40:11 2034 GMT
+        Subject: C=GB, ST=Some-State, O=Internet Widgits Pty Ltd
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (256 bit)
+                pub:
+                    04:b4:ad:a8:f7:62:4e:e9:6a:c8:04:8a:aa:d5:b5:
+                    46:ac:86:63:23:52:90:b5:f9:37:30:e6:83:77:af:
+                    45:a0:cf:47:e5:2a:ab:bd:ef:c3:86:43:0f:43:a4:
+                    3c:ad:0d:58:92:ec:4b:07:11:79:c1:7d:bd:e0:a2:
+                    d4:cb:22:d3:72
+                ASN1 OID: secp256k1
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                6F:4F:C8:99:60:8B:62:34:87:F3:CF:35:8C:ED:FB:1F:FC:C7:24:CC
+    Signature Algorithm: ecdsa-with-SHA256
+    Signature Value:
+        30:45:02:20:56:38:c6:8e:16:dd:7a:3a:b2:10:62:23:3c:65:
+        58:78:99:e2:1a:08:d5:4c:da:c9:bc:a8:e0:35:2a:a5:b1:7b:
+        02:21:00:e9:6b:50:6e:b2:80:d3:30:aa:44:a7:5a:a3:f6:b2:
+        66:b0:fd:4c:80:34:2b:e0:f6:c2:71:54:20:12:ca:0e:89
+-----BEGIN CERTIFICATE-----
+MIIBqjCCAVCgAwIBAgIUDrE/+7KJOQpdC13UygFiZxPuCZAwCgYIKoZIzj0EAwIw
+RTELMAkGA1UEBhMCR0IxEzARBgNVBAgMClNvbWUtU3RhdGUxITAfBgNVBAoMGElu
+dGVybmV0IFdpZGdpdHMgUHR5IEx0ZDAeFw0yNDA1MDUxMDQwMTFaFw0zNDA1MDUx
+MDQwMTFaMEUxCzAJBgNVBAYTAkdCMRMwEQYDVQQIDApTb21lLVN0YXRlMSEwHwYD
+VQQKDBhJbnRlcm5ldCBXaWRnaXRzIFB0eSBMdGQwVjAQBgcqhkjOPQIBBgUrgQQA
+CgNCAAS0raj3Yk7pasgEiqrVtUashmMjUpC1+Tcw5oN3r0Wgz0flKqu978OGQw9D
+pDytDViS7EsHEXnBfb3gotTLItNyoyEwHzAdBgNVHQ4EFgQUb0/ImWCLYjSH8881
+jO37H/zHJMwwCgYIKoZIzj0EAwIDSAAwRQIgVjjGjhbdejqyEGIjPGVYeJniGgjV
+TNrJvKjgNSqlsXsCIQDpa1BusoDTMKpEp1qj9rJmsP1MgDQr4PbCcVQgEsoOiQ==
+-----END CERTIFICATE-----

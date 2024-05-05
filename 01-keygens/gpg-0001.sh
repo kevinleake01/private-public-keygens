@@ -2,7 +2,7 @@
 
 # This creates a private and public key pair using GnuPG.
 
-# Example usage:  ./gpg-0001.sh mykeys test@foobar.com
+# Example usage:  ./gpg-0001.sh mykeys
 
 mkdir 00_$1
 cd 00_$1

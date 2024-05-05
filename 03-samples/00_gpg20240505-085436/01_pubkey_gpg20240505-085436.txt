@@ -1,0 +1,16 @@
+[keyboxd]
+---------
+pub   rsa3072 2024-05-05 [SCE]
+      33CE03CAA93CDC489D9E2150BDD0F624FB0A2779
+uid           [ultimate] Test User (None) <test@foobar.com>
+
+pub   rsa1024 2024-05-05 [SC]
+      36648041BBAE40D4D99BAA03F72D39D662EA5791
+uid           [ultimate] Test User (None) <test@foobar.com>
+sub   rsa1024 2024-05-05 [E]
+
+pub   dsa2048 2024-05-05 [SC]
+      431B70583E6BF1325E81850FC9AFD8441F5DC579
+uid           [ultimate] Test User <test@foobar.com>
+sub   elg3072 2024-05-05 [E]
+

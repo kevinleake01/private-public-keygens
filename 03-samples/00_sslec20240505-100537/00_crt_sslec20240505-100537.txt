@@ -1,0 +1,41 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            67:f3:df:f0:ce:6d:c8:ec:12:64:2a:4e:bc:04:bb:0d:52:a5:87:6c
+        Signature Algorithm: ecdsa-with-SHA256
+        Issuer: C=GB, ST=Some-State, O=Internet Widgits Pty Ltd
+        Validity
+            Not Before: May  5 09:04:26 2024 GMT
+            Not After : May  5 09:04:26 2034 GMT
+        Subject: C=GB, ST=Some-State, O=Internet Widgits Pty Ltd
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (256 bit)
+                pub:
+                    04:e4:f5:1e:2e:4c:5b:11:7a:14:1b:46:1f:04:3d:
+                    63:97:7c:26:ac:43:53:b9:c7:71:dc:43:83:f2:43:
+                    25:60:d1:a3:42:c7:38:d9:2f:46:e8:26:93:4d:03:
+                    77:3d:ac:ca:ef:0e:e9:95:bc:1d:02:2d:b7:d8:90:
+                    5b:36:97:a3:d5
+                ASN1 OID: secp256k1
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                F8:1D:CE:20:DA:2D:65:3D:43:3C:BA:00:6B:37:9C:4A:3C:B7:5A:2D
+    Signature Algorithm: ecdsa-with-SHA256
+    Signature Value:
+        30:44:02:20:46:a5:87:4a:bf:f7:93:1e:66:7a:ca:fb:42:d7:
+        32:68:7e:e1:69:1c:dc:ac:b9:3f:59:d0:2b:0e:2b:c5:6b:73:
+        02:20:31:5f:9a:7a:98:81:db:b9:cc:34:b1:3b:5c:3b:cc:2f:
+        96:35:05:90:53:d0:db:db:f4:f2:21:90:e5:f2:ee:e1
+-----BEGIN CERTIFICATE-----
+MIIBqTCCAVCgAwIBAgIUZ/Pf8M5tyOwSZCpOvAS7DVKlh2wwCgYIKoZIzj0EAwIw
+RTELMAkGA1UEBhMCR0IxEzARBgNVBAgMClNvbWUtU3RhdGUxITAfBgNVBAoMGElu
+dGVybmV0IFdpZGdpdHMgUHR5IEx0ZDAeFw0yNDA1MDUwOTA0MjZaFw0zNDA1MDUw
+OTA0MjZaMEUxCzAJBgNVBAYTAkdCMRMwEQYDVQQIDApTb21lLVN0YXRlMSEwHwYD
+VQQKDBhJbnRlcm5ldCBXaWRnaXRzIFB0eSBMdGQwVjAQBgcqhkjOPQIBBgUrgQQA
+CgNCAATk9R4uTFsRehQbRh8EPWOXfCasQ1O5x3HcQ4PyQyVg0aNCxzjZL0boJpNN
+A3c9rMrvDumVvB0CLbfYkFs2l6PVoyEwHzAdBgNVHQ4EFgQU+B3OINotZT1DPLoA
+azecSjy3Wi0wCgYIKoZIzj0EAwIDRwAwRAIgRqWHSr/3kx5mesr7QtcyaH7haRzc
+rLk/WdArDivFa3MCIDFfmnqYgdu5zDSxO1w7zC+WNQWQU9Db2/TyIZDl8u7h
+-----END CERTIFICATE-----

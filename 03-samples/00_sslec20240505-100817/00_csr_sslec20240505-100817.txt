@@ -1,0 +1,53 @@
+Certificate Request:
+    Data:
+        Version: 1 (0x0)
+        Subject: C=GB, ST=Some-State, O=Internet Widgits Pty Ltd
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (256 bit)
+                pub:
+                    04:6f:cb:5e:f0:3b:4d:7f:b8:2f:51:f4:10:7a:97:
+                    10:a2:e3:2e:49:2b:0d:17:e9:f8:c4:a8:fe:10:a4:
+                    10:d7:58:8f:4f:3e:a2:1f:4d:77:e2:6c:4f:97:1c:
+                    79:58:f8:c2:31:54:16:b8:9c:1b:c7:92:27:97:9b:
+                    ab:46:05:96:57
+                Field Type: prime-field
+                Prime:
+                    00:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:
+                    ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:fe:ff:
+                    ff:fc:2f
+                A:    0
+                B:    7 (0x7)
+                Generator (uncompressed):
+                    04:79:be:66:7e:f9:dc:bb:ac:55:a0:62:95:ce:87:
+                    0b:07:02:9b:fc:db:2d:ce:28:d9:59:f2:81:5b:16:
+                    f8:17:98:48:3a:da:77:26:a3:c4:65:5d:a4:fb:fc:
+                    0e:11:08:a8:fd:17:b4:48:a6:85:54:19:9c:47:d0:
+                    8f:fb:10:d4:b8
+                Order: 
+                    00:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:
+                    ff:fe:ba:ae:dc:e6:af:48:a0:3b:bf:d2:5e:8c:d0:
+                    36:41:41
+                Cofactor:  1 (0x1)
+        Attributes:
+            (none)
+            Requested Extensions:
+    Signature Algorithm: ecdsa-with-SHA256
+    Signature Value:
+        30:45:02:20:70:dd:ee:39:a1:46:a2:8b:ba:38:f8:73:1e:0a:
+        2a:97:6a:2e:8e:71:d6:c0:a5:9b:c1:42:2c:4a:b5:cf:47:59:
+        02:21:00:d8:3e:bf:ba:b5:f8:84:fa:6d:fd:22:1a:88:f8:22:
+        21:d8:93:7d:09:0d:17:38:79:7d:86:c0:5e:cb:18:87:38
+-----BEGIN CERTIFICATE REQUEST-----
+MIIB3TCCAYMCAQAwRTELMAkGA1UEBhMCR0IxEzARBgNVBAgMClNvbWUtU3RhdGUx
+ITAfBgNVBAoMGEludGVybmV0IFdpZGdpdHMgUHR5IEx0ZDCCATMwgewGByqGSM49
+AgEwgeACAQEwLAYHKoZIzj0BAQIhAP//////////////////////////////////
+//7///wvMEQEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABCAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwRBBHm+Zn753LusVaBilc6HCwcC
+m/zbLc4o2VnygVsW+BeYSDradyajxGVdpPv8DhEIqP0XtEimhVQZnEfQj/sQ1LgC
+IQD////////////////////+uq7c5q9IoDu/0l6M0DZBQQIBAQNCAARvy17wO01/
+uC9R9BB6lxCi4y5JKw0X6fjEqP4QpBDXWI9PPqIfTXfibE+XHHlY+MIxVBa4nBvH
+kieXm6tGBZZXoAAwCgYIKoZIzj0EAwIDSAAwRQIgcN3uOaFGoou6OPhzHgoql2ou
+jnHWwKWbwUIsSrXPR1kCIQDYPr+6tfiE+m39IhqI+CIh2JN9CQ0XOHl9hsBeyxiH
+OA==
+-----END CERTIFICATE REQUEST-----

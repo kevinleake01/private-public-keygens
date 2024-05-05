@@ -1,0 +1,12 @@
+[keyboxd]
+---------
+pub   rsa1024 2024-05-05 [SC]
+      3664 8041 BBAE 40D4 D99B  AA03 F72D 39D6 62EA 5791
+uid           [ultimate] Test User (None) <test@foobar.com>
+sub   rsa1024 2024-05-05 [E]
+
+pub   dsa2048 2024-05-05 [SC]
+      431B 7058 3E6B F132 5E81  850F C9AF D844 1F5D C579
+uid           [ultimate] Test User <test@foobar.com>
+sub   elg3072 2024-05-05 [E]
+

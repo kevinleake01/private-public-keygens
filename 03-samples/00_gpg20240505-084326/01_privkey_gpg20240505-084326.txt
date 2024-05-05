@@ -1,0 +1,7 @@
+[keyboxd]
+---------
+sec   rsa1024 2024-05-05 [SC]
+      36648041BBAE40D4D99BAA03F72D39D662EA5791
+uid           [ultimate] Test User (None) <test@foobar.com>
+ssb   rsa1024 2024-05-05 [E]
+

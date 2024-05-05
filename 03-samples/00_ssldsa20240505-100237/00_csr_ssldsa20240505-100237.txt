@@ -1,0 +1,101 @@
+Certificate Request:
+    Data:
+        Version: 1 (0x0)
+        Subject: C=GB, ST=Some-State, O=Internet Widgits Pty Ltd
+        Subject Public Key Info:
+            Public Key Algorithm: dsaEncryption
+                Public-Key: (2048 bit)
+                pub: 
+                    00:b9:01:06:d3:9d:44:48:a9:43:9e:79:15:6c:61:
+                    c6:4a:fe:10:28:d4:72:4c:0d:19:73:9c:79:ba:af:
+                    42:52:37:8e:13:5f:e9:54:f0:37:76:0b:b8:cc:41:
+                    92:e4:55:29:06:03:7e:52:9d:84:6b:a5:40:6f:e3:
+                    fa:11:22:e6:7b:42:eb:a0:c9:4d:91:f4:7b:e4:48:
+                    20:c5:c0:85:a5:86:9e:d6:f2:55:48:32:16:b5:4f:
+                    47:83:27:19:b5:06:56:58:09:23:65:36:1f:d0:5e:
+                    17:7c:20:90:cd:73:e0:31:da:4c:5f:8e:e1:3c:7d:
+                    5a:f2:ec:60:5a:8a:17:fd:c9:23:4b:9e:de:b7:ac:
+                    b1:71:53:de:5f:77:d6:85:3c:43:01:a5:5e:91:23:
+                    0d:e6:0f:48:74:27:1f:c3:41:96:47:7a:f9:22:0d:
+                    61:6a:18:b9:ce:69:46:3d:e6:30:7b:0a:77:16:9e:
+                    aa:e7:4d:61:5c:a6:4c:3e:bb:e4:6d:30:19:42:5e:
+                    32:c0:3a:6d:de:43:2c:97:68:1f:2d:d1:41:2f:50:
+                    43:ea:76:87:a5:35:45:db:4e:01:98:b1:3b:1a:7e:
+                    bb:5a:a5:44:e8:b3:6b:35:c6:24:33:d7:80:68:fc:
+                    14:bb:80:0a:d5:34:28:8c:5c:12:d9:09:da:6e:bb:
+                    a7:e6
+                P:   
+                    00:f6:f5:68:fa:d8:10:5c:5a:2f:20:de:ec:84:15:
+                    21:3e:42:33:fc:7a:12:77:0d:a6:b5:99:d0:30:46:
+                    39:c8:7f:00:24:3c:b3:7b:a2:41:ba:66:21:da:cd:
+                    4a:82:79:28:04:c2:47:83:58:92:58:31:71:28:af:
+                    96:01:da:ce:b1:a6:86:82:8e:da:2b:df:31:ce:24:
+                    9e:e1:ee:a7:fa:7c:35:9f:04:3e:d4:77:e7:39:85:
+                    b5:9d:06:1c:cc:6b:79:a5:5b:d7:ac:0d:3d:0b:1c:
+                    88:fd:57:0e:65:e9:de:0e:e8:42:66:da:6e:bd:29:
+                    9b:45:54:94:17:2a:ad:df:8a:a3:0e:c6:83:66:40:
+                    c1:97:17:20:79:03:a8:46:b7:c1:2c:88:0d:da:0d:
+                    ab:31:d8:d3:97:f5:43:05:9f:ae:95:03:b7:0f:c2:
+                    d5:e1:23:03:7f:8d:b0:50:90:e9:65:56:73:59:21:
+                    b4:01:92:09:46:56:fc:6d:86:76:47:e6:37:f9:68:
+                    e0:11:8a:76:5f:c0:4f:28:19:0e:57:65:d4:cf:1b:
+                    44:27:c2:2e:52:00:19:ac:b1:ad:2f:5a:f9:a3:b0:
+                    7e:b3:40:7f:88:c4:3c:83:58:df:70:d8:7e:77:75:
+                    cd:ee:ff:5b:f6:e3:d6:02:d3:15:2d:d0:08:14:5b:
+                    fe:17
+                Q:   
+                    00:98:44:95:30:e4:a2:39:9e:92:6e:7c:d5:41:da:
+                    4e:20:3c:98:df:cc:68:64:20:eb:30:ef:28:2b
+                G:   
+                    00:c3:d5:52:d1:15:2c:46:74:18:3c:bc:6e:5e:e6:
+                    0e:d8:2d:ad:f2:8c:d2:08:e2:59:b2:7f:45:41:7a:
+                    cb:10:d2:c6:bb:1a:2f:a0:76:e4:5f:95:41:ee:a3:
+                    a4:6c:ed:9f:b5:d6:e3:bc:42:5c:e1:11:fe:59:d4:
+                    3e:4b:ef:9d:d4:30:81:88:e3:39:e2:06:79:cb:a5:
+                    47:18:ec:17:9c:e0:34:59:c6:51:1d:bf:7f:d0:fe:
+                    a4:eb:cd:ea:d6:41:1c:d8:f0:89:fc:23:01:2e:bb:
+                    fc:d4:92:17:0a:96:88:93:b7:d1:fb:67:9a:fd:c6:
+                    72:d6:6d:06:5a:33:75:24:29:ef:06:01:fd:69:16:
+                    99:15:3b:1f:fd:66:d6:db:dc:63:55:b4:57:7c:d1:
+                    16:9c:36:c6:54:56:43:22:55:6d:7f:28:a8:c5:8e:
+                    75:99:47:63:3f:9a:da:ec:a2:80:bc:6a:01:87:7c:
+                    bd:23:de:92:1e:f5:88:bf:27:2d:a9:3c:de:8a:e9:
+                    a6:75:54:90:aa:5c:22:a5:ce:d8:5a:34:e1:ca:58:
+                    9e:cb:6f:62:e5:a5:54:7e:8b:fc:16:c2:ad:17:b2:
+                    18:20:40:c0:29:98:fb:b0:4c:4d:10:f3:c5:e6:8e:
+                    71:e3:f2:29:e5:2c:df:38:3c:77:c3:43:fb:09:c7:
+                    6f:76
+        Attributes:
+            (none)
+            Requested Extensions:
+    Signature Algorithm: dsa_with_SHA256
+    Signature Value:
+        r:   
+            00:84:45:07:c9:cf:e6:56:00:c6:c9:13:ac:07:67:
+            bb:a9:16:4d:0e:a2:ac:6e:da:04:f9:66:af:46
+        s:   
+            76:3d:6f:1d:b2:af:c8:a6:74:5e:12:99:94:83:b3:
+            9b:7c:6b:c9:1b:81:01:63:02:e0:14:3f:09
+-----BEGIN CERTIFICATE REQUEST-----
+MIID5zCCA5QCAQAwRTELMAkGA1UEBhMCR0IxEzARBgNVBAgMClNvbWUtU3RhdGUx
+ITAfBgNVBAoMGEludGVybmV0IFdpZGdpdHMgUHR5IEx0ZDCCA0QwggI2BgcqhkjO
+OAQBMIICKQKCAQEA9vVo+tgQXFovIN7shBUhPkIz/HoSdw2mtZnQMEY5yH8AJDyz
+e6JBumYh2s1KgnkoBMJHg1iSWDFxKK+WAdrOsaaGgo7aK98xziSe4e6n+nw1nwQ+
+1HfnOYW1nQYczGt5pVvXrA09CxyI/VcOZeneDuhCZtpuvSmbRVSUFyqt34qjDsaD
+ZkDBlxcgeQOoRrfBLIgN2g2rMdjTl/VDBZ+ulQO3D8LV4SMDf42wUJDpZVZzWSG0
+AZIJRlb8bYZ2R+Y3+WjgEYp2X8BPKBkOV2XUzxtEJ8IuUgAZrLGtL1r5o7B+s0B/
+iMQ8g1jfcNh+d3XN7v9b9uPWAtMVLdAIFFv+FwIdAJhElTDkojmekm581UHaTiA8
+mN/MaGQg6zDvKCsCggEBAMPVUtEVLEZ0GDy8bl7mDtgtrfKM0gjiWbJ/RUF6yxDS
+xrsaL6B25F+VQe6jpGztn7XW47xCXOER/lnUPkvvndQwgYjjOeIGeculRxjsF5zg
+NFnGUR2/f9D+pOvN6tZBHNjwifwjAS67/NSSFwqWiJO30ftnmv3GctZtBlozdSQp
+7wYB/WkWmRU7H/1m1tvcY1W0V3zRFpw2xlRWQyJVbX8oqMWOdZlHYz+a2uyigLxq
+AYd8vSPekh71iL8nLak83orppnVUkKpcIqXO2Fo04cpYnstvYuWlVH6L/BbCrRey
+GCBAwCmY+7BMTRDzxeaOcePyKeUs3zg8d8ND+wnHb3YDggEGAAKCAQEAuQEG051E
+SKlDnnkVbGHGSv4QKNRyTA0Zc5x5uq9CUjeOE1/pVPA3dgu4zEGS5FUpBgN+Up2E
+a6VAb+P6ESLme0LroMlNkfR75EggxcCFpYae1vJVSDIWtU9HgycZtQZWWAkjZTYf
+0F4XfCCQzXPgMdpMX47hPH1a8uxgWooX/ckjS57et6yxcVPeX3fWhTxDAaVekSMN
+5g9IdCcfw0GWR3r5Ig1hahi5zmlGPeYwewp3Fp6q501hXKZMPrvkbTAZQl4ywDpt
+3kMsl2gfLdFBL1BD6naHpTVF204BmLE7Gn67WqVE6LNrNcYkM9eAaPwUu4AK1TQo
+jFwS2Qnabrun5qAAMAsGCWCGSAFlAwQDAgNAADA9Ah0AhEUHyc/mVgDGyROsB2e7
+qRZNDqKsbtoE+WavRgIcdj1vHbKvyKZ0XhKZlIOzm3xryRuBAWMC4BQ/CQ==
+-----END CERTIFICATE REQUEST-----
